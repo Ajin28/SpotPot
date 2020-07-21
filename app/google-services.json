@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "721893139372",
+    "firebase_url": "https://fluted-dynamo-262421.firebaseio.com",
+    "project_id": "fluted-dynamo-262421",
+    "storage_bucket": "fluted-dynamo-262421.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721893139372:android:ac5d2b6b5876edd2b15009",
+        "android_client_info": {
+          "package_name": "com.example.spotpot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721893139372-80sat1e1k05ilbevtifk8rghukvphrjj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spotpot",
+            "certificate_hash": "79e9c67ae9a2adb25fb13648ba8e686e104305d6"
+          }
+        },
+        {
+          "client_id": "721893139372-ftfqptn4rapgk8l6bi8grfirn4f9s7cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu6StkjYdpQKw8uACsvUSF4uVUrZbtABY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721893139372-ftfqptn4rapgk8l6bi8grfirn4f9s7cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
